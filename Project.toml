@@ -3,8 +3,11 @@ uuid = "2daec1c6-fe5a-4a05-916d-c35edab49ec7"
 authors = ["serenity4 <cedric.bel@hotmail.fr> and contributors"]
 version = "0.1.0"
 
+[deps]
+SPIRV = "84138a67-b342-4d33-8200-33cfcca52eb2"
+
 [compat]
-julia = "1"
+julia = "1.7"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
